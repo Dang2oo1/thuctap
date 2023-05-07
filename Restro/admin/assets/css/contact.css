@@ -1,0 +1,38 @@
+.contact_1 {
+    background-color: #FFF;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.contact_1 > h2 {
+    padding-bottom: 30px;
+}
+
+.contact_2 {
+    background-color: #fff;
+    border-radius: 10px;
+    height: 500px;
+}
+
+.time {
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.time > h3 {
+    margin-top: 10px;
+}
+
+/* ul > li {
+    margin-left: 20px;
+} */
+
+li {
+    padding-top: 5px;
+}
+
+li > span {
+    color: black;
+    font-weight: 900;
+}
+
